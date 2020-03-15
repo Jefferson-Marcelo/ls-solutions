@@ -1,6 +1,27 @@
 {
-    "type": "module",
-    "devDependencies": {
-        "jest": "^25.1.0"
-    }
+  "type": "module",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "watch": "^1.0.2"
+  },
+  "name": "ls-solutions",
+  "description": "Este repositório tem a finalidade de agrupar as soluções dos exercícios da disciplina LS.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jefferson-Marcelo/ls-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jefferson-Marcelo/ls-solutions/issues"
+  },
+  "homepage": "https://github.com/Jefferson-Marcelo/ls-solutions#readme"
 }
